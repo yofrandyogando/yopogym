@@ -1,0 +1,250 @@
+.inicio {
+    display: flex;
+    justify-content: center;
+    background: url(/yofran/gym1.jpg) no-repeat center;
+    align-items: center;
+    height: 50vh;
+    width: 200vh;
+}
+
+.inicio2 {
+    margin-bottom: 4cm;
+    font-size: 60px;
+    font-weight: 600px;
+    text-transform: uppercase;
+    color: rgb(27, 3, 236);
+    margin-left: 17cm;
+}
+
+#ptext {
+    margin-bottom: -1cm;
+    font-size: 20px;
+    color: rgb(2, 253, 78);
+    padding: 0 100px;
+    margin-left: -21cm;
+}
+
+.dame {
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+}
+
+.yuca {
+    background-color: rgb(125, 136, 136);
+    left: -2cm;
+    width: 9cm;
+}
+
+.heade1 {
+    display: inline-block;
+    position: relative;
+    left: 10%;
+    bottom: -1cm;
+}
+
+.titulo {
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    left: .0cm;
+    background-color: rgb(17, 0, 255);
+    padding-left: 3.7cm;
+}
+
+li {
+    color: rgb(1, 255, 1);
+    font-size: 18px;
+    left: .6cm;
+}
+
+.da {
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    left: -2cm;
+}
+
+.ya {
+    background-color: rgb(125, 136, 136);
+    width: 9cm;
+    left: -3.6cm;
+}
+
+.div1 {
+    padding: -22px;
+    display: inline-block;
+    position: relative;
+    left: 9cm;
+    bottom: -1cm;
+}
+
+.titulo2 {
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    left: .0cm;
+    background-color: rgb(17, 0, 255);
+    padding-left: 3.3cm;
+}
+
+.de {
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    left: -2cm
+}
+
+.div2 {
+    padding: -22px;
+    display: inline-block;
+    position: relative;
+    left: 13.1cm;
+    bottom: -1cm;
+}
+
+.ye {
+    background-color: rgb(125, 136, 136);
+    width: 9cm;
+    left: -3.9cm;
+}
+
+.titulo3 {
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    left: 0cm;
+    background-color: rgb(17, 0, 255);
+    padding-left: 3.1cm;
+}
+
+.di {
+    border-radius: 50%;
+    left: -1.2cm;
+    bottom: 26px;
+}
+
+.div3 {
+    padding: -22px;
+    display: inline-block;
+    position: relative;
+    bottom: -11.9cm;
+    left: -22cm;
+}
+
+.yi {
+    background-color: rgb(125, 136, 136);
+    width: 10cm;
+    left: -3.9cm;
+    bottom: 25px;
+}
+
+.titulo4 {
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    left: 0cm;
+    background-color: rgb(17, 0, 255);
+    padding-left: 4cm;
+}
+
+.do {
+    border-radius: 50%;
+    left: 16.8cm;
+    bottom: -1.5cm;
+}
+
+.titu5 {
+    position: relative;
+    left: 0cm;
+    bottom: .1cm;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(17, 0, 255);
+    padding-left: 3.3cm;
+}
+
+.yofran {
+    background-color: rgb(125, 136, 136);
+    width: 9.1cm;
+    left: 14.7cm;
+    position: relative;
+    bottom: -1.6cm;
+}
+
+.tete {
+    position: relative;
+    left: -1px;
+    bottom: 2px;
+    font-size: 18px;
+}
+
+.du {
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    bottom: .1cm;
+}
+
+.yu {
+    background-color: rgb(125, 136, 136);
+    width: 10cm;
+    left: -2cm;
+}
+
+.div6 {
+    padding: -22px;
+    display: inline-block;
+    position: relative;
+    left: 29.1cm;
+    bottom: 8.2cm;
+}
+
+.titu6 {
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    left: 0cm;
+    background-color: rgb(17, 0, 255);
+    padding-left: 3.3cm;
+}
+
+.dame,
+.da,
+.de,
+.di,
+.do,
+.du {
+    border: 3px solid rgb(0, 207, 0);
+}
+
+.arnol {
+    bottom: -20px;
+    left: -8cm;
+}
+
+.cbun {
+    bottom: -20px;
+    left: 10.1cm;
+    border-radius: 6px;
+}
+
+.roni {
+    bottom: -20px;
+    left: -10.8cm;
+}
+
+.arnol,
+.roni,
+.cbun figure {
+    position: relative;
+    overflow: hidden;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+}

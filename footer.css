@@ -1,0 +1,156 @@
+footer {
+    position: relative;
+    background-color: rgb(70, 65, 65);
+}
+
+.fu {
+    position: relative;
+    height: 295px;
+    margin-top: 1.8cm;
+}
+
+.no {
+    color: rgb(81, 102, 165);
+    position: relative;
+    left: 3.7cm;
+    text-decoration: none;
+    bottom: -45px;
+    font-size: 20px;
+}
+
+.nul {
+    position: relative;
+    color: rgb(252, 252, 255);
+    left: 1cm;
+    bottom: -60px;
+    font-size: 14px;
+}
+
+.re {
+    color: rgb(81, 102, 165);
+    position: relative;
+    left: 17.5cm;
+    text-decoration: none;
+    bottom: 3.2cm;
+    font-size: 20px;
+}
+
+.pp {
+    position: relative;
+    left: 15.1cm;
+    color: aliceblue;
+    bottom: 110px;
+}
+
+.yutu {
+    color: aliceblue;
+    position: relative;
+    left: 560px;
+    font-size: 25px;
+    bottom: 2.6cm;
+}
+
+.f {
+    color: aliceblue;
+    color: aliceblue;
+    position: relative;
+    left: 680px;
+    font-size: 25px;
+    bottom: 2.6cm;
+    border: 10px;
+}
+
+.t {
+    color: aliceblue;
+    position: relative;
+    left: 708px;
+    font-size: 25px;
+    bottom: 2.6cm;
+}
+
+.i {
+    color: aliceblue;
+    position: relative;
+    left: 760px;
+    font-size: 25px;
+    bottom: 2.6cm;
+}
+
+.u {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.bi-geo-alt {
+    position: relative;
+    color: rgb(237, 237, 237);
+    left: 28.6cm;
+    bottom: 1.5cm;
+    font-size: 25px;
+}
+
+.bi-telephone {
+    position: relative;
+    color: rgb(255, 255, 255);
+    left: 30.2cm;
+    bottom: 4.7cm;
+    font-size: 25px;
+}
+
+.bi-envelope-at-fill {
+    position: relative;
+    color: rgb(255, 255, 255);
+    left: 29.4cm;
+    bottom: 3.1cm;
+    font-size: 25px;
+}
+
+.yopo {
+    position: relative;
+    left: 14.7cm;
+    bottom: 1cm;
+    font-size: 17px;
+    color: blue;
+}
+
+.yope {
+    color: blue;
+    left: 31cm;
+    bottom: 5.9cm;
+    font-size: 17px;
+}
+
+.yopi {
+    color: blue;
+    left: 31cm;
+    bottom: 4.9cm;
+    font-size: 17px;
+}
+
+.yopu {
+    color: blue;
+    left: 31cm;
+    bottom: 3.9cm;
+    font-size: 17px;
+}
+
+.bi-geo-alt:hover {
+    color: rgb(0, 2, 126);
+}
+
+.yutu:hover {
+    color: rgb(0, 2, 126);
+}
+
+.f:hover {
+    color: rgb(0, 2, 126);
+}
+
+.i:hover {
+    color: rgb(0, 2, 126);
+}
+
+.t:hover {
+    color: rgb(0, 2, 126);
+}
